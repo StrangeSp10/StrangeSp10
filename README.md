@@ -2,10 +2,10 @@
 - 👀 I’m interested in coding, game dev & modelling.
 - 🌱 I’m currently learning unreal engine 5.
 - 💞️ I’m looking to collaborate on gameDev & 3D modelling.
-- 📫 How to reach me:
-                discord - https://discordapp.com/users/561745744021815296
-                email - prasathsp10@gmail.com
-                instagram - https://www.instagram.com/strange.sp10/
+- 📫 How to reach me: 
+				discord - https://discordapp.com/users/561745744021815296
+				email - prasathsp10@gmail.com
+				instagram - https://www.instagram.com/strange.sp10/
                 
 
 <!---
